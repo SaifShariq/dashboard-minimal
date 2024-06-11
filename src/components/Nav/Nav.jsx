@@ -12,7 +12,6 @@ const Nav = () => {
             <NavMessage />
             <NavAvatar />
         </ul>
-        Nav
     </nav>
   )
 }
