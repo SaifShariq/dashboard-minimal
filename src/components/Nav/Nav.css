@@ -13,10 +13,13 @@
     color: #012970;
     margin-right: 25px;
     position: relative;
+    top: 2px;
 }
 
 .header-nav .nav-profile {
     color: #012970;
+    position: relative;
+    top: -2px;
 }
 
 .header-nav .nav-profile img {

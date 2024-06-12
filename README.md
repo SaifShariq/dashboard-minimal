@@ -1,3 +1,14 @@
+# Dashboard Minimal
+
+Key Features
+-- Use of React Graphs and Charts (eChart, APEXCHARTS)
+-- Animated Side Menu and Navigation
+-- React Bootstrap 5
+-- Data Fetching from mock api
+-- JSON server api endpoint
+-- Dynamic Data Mapping
+-- Bootstrap Cards Design
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
