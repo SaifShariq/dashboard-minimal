@@ -1,13 +1,10 @@
 # Dashboard Minimal
 
-Key Features
--- Use of React Graphs and Charts (eChart, APEXCHARTS)
--- Animated Side Menu and Navigation
--- React Bootstrap 5
--- Data Fetching from mock api
--- JSON server api endpoint
--- Dynamic Data Mapping
--- Bootstrap Cards Design
+- Use of React Graphs and Charts (eChart, APEXCHARTS)
+- Animated Side Menu, Navigation and Cards Design using React Bootstrap 5
+- Data Fetching from mock api
+- JSON server api endpoint
+- Dynamic Data Mapping
 
 # Getting Started with Create React App
 

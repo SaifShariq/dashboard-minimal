@@ -1,9 +1,12 @@
-import React from 'react'
+import React from 'react';
 
 function Dashboard() {
   return (
-    <div>Dashboard</div>
+    <section className='dashboard section'>
+        {/* using bootstap to show data in row (each 1 row contains 12 columns) */}
+       <div className="row"></div>
+    </section>
   )
 }
 
-export default Dashboard
+export default Dashboard;
