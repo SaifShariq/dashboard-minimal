@@ -8,14 +8,14 @@ function SideBar() {
     <aside id='sidebar' className='sidebar'>
         <ul className='sidebar-nav' id='sidebar-nav'>
             <li className='nav-item'>
-                <a className='nav-link' href='#'>
+                <a className='nav-link' href='/'>
                     <i className='bi bi-grid'></i>
                     <span>Dashboard</span>
                 </a>
             </li>
             <li className='nav-item'>
                 <a 
-                    className='nav-link collapse'
+                    className='nav-link collapsed'
                     data-bs-target='#components-nav'
                     data-bs-toggle='collapse' 
                     href='#'
@@ -31,19 +31,19 @@ function SideBar() {
                 >
                     <li>
                         <a href='#'>
-                            <i class="bi bi-dot"></i>
+                            <i class="bi bi-circle-fill"></i>
                             <span>Customers</span>
                         </a>
                     </li>
                     <li>
                         <a href='#'>
-                            <i class="bi bi-dot"></i>
+                            <i class="bi bi-circle-fill"></i>
                             <span>Suppliers</span>
                         </a>
                     </li>
                     <li>
                         <a href='#'>
-                            <i class="bi bi-dot"></i>
+                            <i class="bi bi-circle-fill"></i>
                             <span>Logistics</span>
                         </a>
                     </li>
@@ -51,7 +51,7 @@ function SideBar() {
             </li>
             <li className='nav-item'>
                 <a
-                    className='nav-link collapse'
+                    className='nav-link collapsed'
                     data-bs-target='#forms-nav'
                     data-bs-toggle='collapse'
                     href='#'
@@ -67,19 +67,19 @@ function SideBar() {
                 >
                     <li>
                         <a href='#'>
-                            <i class="bi bi-dot"></i>   
+                            <i class="bi bi-circle-fill"></i>
                             <span>Application Form</span>
                         </a>
                     </li>
                     <li>
                         <a href='#'>
-                            <i class="bi bi-dot"></i>
+                            <i class="bi bi-circle-fill"></i>
                             <span>Release Form</span>
                         </a>
                     </li>
                     <li>
                         <a href='#'>
-                            <i class="bi bi-dot"></i>
+                            <i class="bi bi-circle-fill"></i>
                             <span>Cancellation Form</span>
                         </a>
                     </li>
@@ -87,7 +87,7 @@ function SideBar() {
             </li>
             <li className='nav-item'>
                 <a
-                    className='nav-link collapse'
+                    className='nav-link collapsed'
                     data-bs-target='#tables-nav'
                     data-bs-toggle='collapse'
                     href='#'
@@ -103,13 +103,13 @@ function SideBar() {
                 >
                     <li>
                         <a href='#'>
-                            <i class="bi bi-dot"></i>
+                            <i class="bi bi-circle-fill"></i>
                             <span>General Tables</span>
                         </a>
                     </li>
                     <li>
                         <a href='#'>
-                            <i class="bi bi-dot"></i>
+                            <i class="bi bi-circle-fill"></i>
                             <span>Data Tables</span>
                         </a>
                     </li>
@@ -117,7 +117,7 @@ function SideBar() {
             </li>
             <li className='nav-item'>
                 <a
-                    className='nav-link collapse'
+                    className='nav-link collapsed'
                     data-bs-target='#charts-nav'
                     data-bs-toggle='collapse'
                     href='#'
@@ -133,19 +133,19 @@ function SideBar() {
                 >
                     <li>
                         <a href='#'>
-                            <i class="bi bi-dot"></i>
+                            <i class="bi bi-circle-fill"></i>
                             <span>Chart.js</span>
                         </a>
                     </li>
                     <li>
                         <a href='#'>
-                            <i class="bi bi-dot"></i>
+                            <i class="bi bi-circle-fill"></i>
                             <span>Apex Charts</span>
                         </a>
                     </li>
                     <li>
                         <a href='#'>
-                            <i class="bi bi-dot"></i>
+                            <i class="bi bi-circle-fill"></i>
                             <span>ECharts</span>
                         </a>
                     </li>
@@ -153,7 +153,7 @@ function SideBar() {
             </li>
             <li className='nav-item'>
                 <a
-                    className='nav-link collapse'
+                    className='nav-link collapsed'
                     data-bs-target="#icons-nav"
                     data-bs-toggle="collapse"
                     href='#'
@@ -169,19 +169,19 @@ function SideBar() {
                 >
                     <li>
                         <a href='#'>
-                            <i class="bi bi-dot"></i>
+                            <i class="bi bi-circle-fill"></i>
                             <span>Bootstrap Icons</span>
                         </a>
                     </li>
                     <li>
                         <a href='#'>
-                            <i class="bi bi-dot"></i>
+                            <i class="bi bi-circle-fill"></i>
                             <span>Remix Icons</span>
                         </a>
                     </li>
                     <li>
                         <a href='#'>
-                            <i class="bi bi-dot"></i>
+                            <i class="bi bi-circle-fill"></i>
                             <span>Boxicons</span>
                         </a>
                     </li>
@@ -198,4 +198,4 @@ function SideBar() {
   )
 }
 
-export default SideBar
+export default SideBar;

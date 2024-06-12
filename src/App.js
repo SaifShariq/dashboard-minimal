@@ -9,12 +9,14 @@ import 'bootstrap/dist/js/bootstrap.min.js';
 import './App.css';
 import Header from './components/Header/Header';
 import SideBar from './components/Sidebar/SideBar';
+import Main from './components/Body/Main';
 
 function App() {
   return (
     <>
        <Header />
        <SideBar />
+       <Main />
     </>
   );
 }
