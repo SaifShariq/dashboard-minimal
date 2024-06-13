@@ -1,5 +1,6 @@
 import React from 'react';
 import './Logo.css';
+import LogoImg from '../../images/logo-icon.png';
 
 function Logo() {
   const handleToggleSidebar = () => {
@@ -8,10 +9,10 @@ function Logo() {
 
   return (
     <div className="d-flex align-items-center justify-content-between">
+        <img className='logoImg' src={LogoImg} alt="LogoImage" />
         <a href="/" className='logo d-flex align-items-center'>
-            <img src="../images/logo.jpg" alt="" />
             <span className='d-none d-lg-block'>Dashboard Minimal</span>
-        </a>
+        </a>   
         <i className="bi bi-list toggle-sidebar-btn" 
            onClick={handleToggleSidebar}>    
         </i>

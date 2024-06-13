@@ -27,7 +27,7 @@ const NavMessage = () => {
                  className='rounded-circle'
             />
             <div>
-              <h4>Maria Maria</h4>
+              <h4>Maria Sharapova</h4>
               <p>
                 Lorem ipsum dolor sit amet consectetur adipisicing elit. Esse recusandae, officia quas consequuntur debitis porro accusamus numquam ad sequi..
               </p>
@@ -45,7 +45,7 @@ const NavMessage = () => {
                  className='rounded-circle'
             />
             <div>
-              <h4>David Gilmore</h4>
+              <h4>David Gilmour</h4>
               <p>
                 Reiciendis excepturi qui, accusamus nesciunt officiis veritatis nemo eligendi, quaerat itaque minima laudantium culpa necessitatibus?
               </p>

@@ -1,0 +1,181 @@
+{
+  "cards": [
+    {
+      "_id": 1,
+      "name": "Sales",
+      "icon": "bi bi-cart",
+      "amount": 145,
+      "percentage": 0.12,
+      "active": true
+    },
+    {
+      "_id": 2,
+      "name": "Revenue",
+      "icon": "bi bi-currency-dollar",
+      "amount": 3246,
+      "percentage": 0.08,
+      "active": false
+    },
+    {
+      "_id": 1,
+      "name": "Customers",
+      "icon": "bi bi-people",
+      "amount": 1244,
+      "percentage": -0.11,
+      "active": false
+    }
+  ],
+  "news": [
+    {
+      "_id": 1,
+      "img": "../assets/items/news-1.jpg",
+      "title": "Ad minim veniam, quis nostrud exercitation",
+      "subtitle": 145,
+      "category": "abc"
+    },
+    {
+      "_id": 2,
+      "img": "../assets/items/news-2.jpg",
+      "title": "Duis aute irure dolor in reprehenderit in voluptate",
+      "subtitle": 145,
+      "category": "abc"
+    },
+    {
+      "_id": 3,
+      "img": "../assets/items/news-3.jpg",
+      "title": "Excepteur sint occaecat cupidatat non proident, sunt",
+      "subtitle": 145,
+      "category": "abc"
+    },
+    {
+      "_id": 4,
+      "img": "../assets/items/news-4.jpg",
+      "title": "Excepteur sint occaecat cupidatat non proident, sunt",
+      "subtitle": 145,
+      "category": "abc"
+    }
+  ],
+  "topselling": [
+    {
+      "_id": 1,
+      "preview": "../assets/items/product-1.jpg",
+      "name": "Interdum posuere lorem ipsum dolor sit amet consectetur",
+      "price": 64,
+      "sold": 124
+    },
+    {
+      "_id": 2,
+      "preview": "../assets/items/product-2.jpg",
+      "name": "Nunc scelerisque viverra mauris in aliquam sem fringilla",
+      "price": 44,
+      "sold": 90
+    },
+    {
+      "_id": 3,
+      "preview": "../assets/items/product-3.jpg",
+      "name": "At urna condimentum mattis pellentesque id nibh tortor id",
+      "price": 50,
+      "sold": 72
+    },
+    {
+      "_id": 4,
+      "preview": "../assets/items/product-4.jpg",
+      "name": "Vitae congue mauris rhoncus aenean vel elit scelerisque",
+      "price": 70,
+      "sold": 40
+    },
+    {
+      "_id": 5,
+      "preview": "../assets/items/product-5.jpg",
+      "name": "Magna sit amet purus gravida quis blandit turpis cursus",
+      "price": 110,
+      "sold": 80
+    }
+  ],
+  "recentsales": [
+    {
+      "_id": 1,
+      "number": "#2457",
+      "customer": "Bear Grylls",
+      "product": "At praesentium minu",
+      "price": 64,
+      "status": "Approved"
+    },
+    {
+      "_id": 2,
+      "number": "#2096",
+      "customer": "Madisson",
+      "product": "Enim tortor at auctor urna nunc id cursus",
+      "price": 50,
+      "status": "Rejected"
+    },
+    {
+      "_id": 3,
+      "number": "#2954",
+      "customer": "Ben Affleck",
+      "product": "Leo vel fringilla est ullamcorper eget nulla",
+      "price": 39,
+      "status": "Rejected"
+    },
+    {
+      "_id": 4,
+      "number": "#3066",
+      "customer": "Tony Kroos",
+      "product": "Nunc eget lorem dolor sed viverra ipsum",
+      "price": 76,
+      "status": "Approved"
+    },
+    {
+      "_id": 5,
+      "number": "#2056",
+      "customer": "Dhruv Rathee",
+      "product": "Semper risus in hendrerit gravida rutrum quisque",
+      "price": 110,
+      "status": "Approved"
+    }
+  ],
+  "recentactivity": [
+    {
+      "_id": 1,
+      "time": "32 min",
+      "color": "text-success",
+      "content": "Mi tempus imperdiet nulla malesuada",
+      "highlight": "Hendrerit gravida rutrum quisque non tellus orci"
+    },
+    {
+      "_id": 2,
+      "time": "44 min",
+      "color": "text-danger",
+      "content": "Est ante in nibh mauris cursus mattis molestie",
+      "highlight": "Dignissim cras tincidunt lobortis feugiat vivamus at augue"
+    },
+    {
+      "_id": 3,
+      "time": "104 min",
+      "color": "text-info",
+      "content": "Consequat semper viverra nam libero justo laoreet sit amet",
+      "highlight": "In fermentum posuere urna nec. Ut etiam sit amet nisl purus in mollis"
+    },
+    {
+      "_id": 4,
+      "time": "34 min",
+      "color": "text-warning",
+      "content": "Metus aliquam eleifend mi in nulla posuere",
+      "highlight": "Pharetra massa massa ultricies mi quis"
+    },
+    {
+      "_id": 5,
+      "time": "2 min",
+      "color": "text-muted",
+      "content": "Ipsum faucibus vitae aliquet nec ullamcorper sit",
+      "highlight": ""
+    },
+    {
+      "_id": 6,
+      "time": "44 min",
+      "color": "text-danger",
+      "content": "Consequat semper viverra nam libero",
+      "highlight": ""
+    }
+  ]
+}
