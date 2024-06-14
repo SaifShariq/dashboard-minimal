@@ -66,14 +66,14 @@
     {
       "_id": 2,
       "preview": "../assets/items/product-2.jpg",
-      "name": "Nunc scelerisque viverra mauris in aliquam sem fringilla",
+      "name": "Nunc scelerisque viverra mauris in aliquam sem fringilla. Blandit aliquam etiam erat velit scelerisque in dictum non. Aliquam faucibus purus in massa. Quam viverra orci sagittis eu volutpat odio facilisis mauris.",
       "price": 44,
       "sold": 90
     },
     {
       "_id": 3,
       "preview": "../assets/items/product-3.jpg",
-      "name": "At urna condimentum mattis pellentesque id nibh tortor id",
+      "name": "At urna condimentum mattis pellentesque id nibh tortor id, Lacus sed turpis tincidunt id aliquet risus feugiat.",
       "price": 50,
       "sold": 72
     },
@@ -140,27 +140,27 @@
       "time": "32 min",
       "color": "text-success",
       "content": "Mi tempus imperdiet nulla malesuada",
-      "highlight": "Hendrerit gravida rutrum quisque non tellus orci"
+      "highlight": "Hendrerit gravida rutrum quisque non tellus"
     },
     {
       "_id": 2,
       "time": "44 min",
       "color": "text-danger",
-      "content": "Est ante in nibh mauris cursus mattis molestie",
-      "highlight": "Dignissim cras tincidunt lobortis feugiat vivamus at augue"
+      "content": "Est ante in nibh mauris cursus mattis mo",
+      "highlight": "Dignissim cras tincidunt lobortis feugiat"
     },
     {
       "_id": 3,
       "time": "104 min",
       "color": "text-info",
-      "content": "Consequat semper viverra nam libero justo laoreet sit amet",
-      "highlight": "In fermentum posuere urna nec. Ut etiam sit amet nisl purus in mollis"
+      "content": "Consequat semper viverra nam libero justo",
+      "highlight": "In fermentum posuere urna nec. Ut etiam sit"
     },
     {
       "_id": 4,
       "time": "34 min",
       "color": "text-warning",
-      "content": "Metus aliquam eleifend mi in nulla posuere",
+      "content": "Metus aliquam eleifend mi in nulla pos",
       "highlight": "Pharetra massa massa ultricies mi quis"
     },
     {
