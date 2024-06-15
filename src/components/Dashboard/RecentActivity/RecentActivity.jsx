@@ -23,7 +23,6 @@ function RecentActivity() {
         fetchData();
     }, []);
 
-
   return (
     <div className="card">
       <CardFilter filterChange={handleFilterChange} />

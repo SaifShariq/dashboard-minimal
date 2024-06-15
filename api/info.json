@@ -140,28 +140,28 @@
       "time": "32 min",
       "color": "text-success",
       "content": "Mi tempus imperdiet nulla malesuada",
-      "highlight": "Hendrerit gravida rutrum quisque non tellus"
+      "highlight": ""
     },
     {
       "_id": 2,
       "time": "44 min",
       "color": "text-danger",
       "content": "Est ante in nibh mauris cursus mattis mo",
-      "highlight": "Dignissim cras tincidunt lobortis feugiat"
+      "highlight": "Dignissim "
     },
     {
       "_id": 3,
       "time": "104 min",
       "color": "text-info",
       "content": "Consequat semper viverra nam libero justo",
-      "highlight": "In fermentum posuere urna nec. Ut etiam sit"
+      "highlight": "In fermentum "
     },
     {
       "_id": 4,
       "time": "34 min",
       "color": "text-warning",
       "content": "Metus aliquam eleifend mi in nulla pos",
-      "highlight": "Pharetra massa massa ultricies mi quis"
+      "highlight": "Pharetra "
     },
     {
       "_id": 5,

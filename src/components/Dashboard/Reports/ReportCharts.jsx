@@ -1,3 +1,4 @@
+import { auto } from '@popperjs/core';
 import React, {useState} from 'react';
 import Chart from 'react-apexcharts';
 
@@ -22,7 +23,7 @@ function ReportCharts() {
                 height: 350,
                 type: 'area',
                 toolbar: {
-                    show: false
+                    show: true
                 }
             }
         },
@@ -71,7 +72,6 @@ function ReportCharts() {
         series={data.series}
         type={data.options.chart.type}
         height={data.options.chart.height}
-
     />
   )
 }

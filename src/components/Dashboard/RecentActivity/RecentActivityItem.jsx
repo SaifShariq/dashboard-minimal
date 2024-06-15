@@ -11,7 +11,9 @@ function RecentActivityItem({ item }) {
             ) : (
                 <div className="activity-content">
                     {item.content.substring(0, item.content.indexOf(item.highlight))}
-                    <a href="#" className='fw-bold text-dark'>{item.highlight}</a>
+                    <a href="#" className='fw-bold text-dark'>
+                      {item.highlight}
+                    </a>
                     {item.content.slice(item.content.indexOf(item.highlight) + item.highlight.length, -1)}
                 </div>
             )}
