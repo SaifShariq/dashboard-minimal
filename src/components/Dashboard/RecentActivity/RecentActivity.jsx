@@ -11,7 +11,7 @@ function RecentActivity() {
     };
 
     const fetchData = () => {
-        fetch('http://localhost:4000/recentactivity')
+        fetch('https://gist.githubusercontent.com/SaifShariq/46c7f35ba234f72f4714178da44cea99/raw/513f1a77cdfbd985e2524dfcd9e4ed16bb1e8a92/recentactivity.json')
         .then(res => res.json())
         .then(data => {
             setItems(data);

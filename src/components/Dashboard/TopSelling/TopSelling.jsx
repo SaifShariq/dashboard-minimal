@@ -11,7 +11,7 @@ function TopSelling() {
   }
 
   const fetchData = () => {
-    fetch('http://localhost:4000/topselling')
+    fetch('https://gist.githubusercontent.com/SaifShariq/8da6c7a2345adb159e524a0678a4495b/raw/3a5379882b52ebf234586b1131eaf81e36c7bba9/topselling.json')
     .then(res => res.json())
     .then(data => {
         setItems(data);

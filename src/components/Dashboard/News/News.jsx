@@ -11,7 +11,7 @@ function News() {
     }
 
     const fetchData = () => {
-        fetch('http://localhost:4000/news')
+        fetch('https://gist.githubusercontent.com/SaifShariq/cd4ba09ec78baefd5a4b56812351ec5b/raw/fdc7708e3c1efb8e3cf40e3c3713b375b6a62e88/news.json')
         .then(res => res.json())
         .then(data => {
             setNews(data);
