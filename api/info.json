@@ -30,28 +30,28 @@
       "_id": 1,
       "img": "../assets/items/news-1.jpg",
       "title": "Ad minim veniam, quis nostrud exercitation",
-      "subtitle": 145,
+      "subtitle": "tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam",
       "category": "abc"
     },
     {
       "_id": 2,
       "img": "../assets/items/news-2.jpg",
-      "title": "Duis aute irure dolor in reprehenderit in voluptate",
-      "subtitle": 145,
+      "title": "Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla",
+      "subtitle": "occaecat cupidatat non proident",
       "category": "abc"
     },
     {
       "_id": 3,
       "img": "../assets/items/news-3.jpg",
       "title": "Excepteur sint occaecat cupidatat non proident, sunt",
-      "subtitle": 145,
+      "subtitle": "Neque volutpat ac tincidunt vitae. Pretium vulputate sapien nec sagittis aliquam malesuada bibendum",
       "category": "abc"
     },
     {
       "_id": 4,
       "img": "../assets/items/news-4.jpg",
       "title": "Excepteur sint occaecat cupidatat non proident, sunt",
-      "subtitle": 145,
+      "subtitle": "id est laborum",
       "category": "abc"
     }
   ],
@@ -59,7 +59,7 @@
     {
       "_id": 1,
       "preview": "../assets/items/product-1.jpg",
-      "name": "Interdum posuere lorem ipsum dolor sit amet consectetur",
+      "name": "Velit sed ullamcorper morbi tincidunt. Morbi leo urna molestie at elementum eu. Leo duis ut diam quam nulla porttitor",
       "price": 64,
       "sold": 124
     },
@@ -123,7 +123,7 @@
       "customer": "Tony Kroos",
       "product": "Nunc eget lorem dolor sed viverra ipsum",
       "price": 76,
-      "status": "Approved"
+      "status": "Pending"
     },
     {
       "_id": 5,
