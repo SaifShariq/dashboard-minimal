@@ -4,12 +4,12 @@ function TopSellingItem({ item }) {
   return (
     <tr>
         <th scope='row'>
-            <a href="#">
+            <a href="/">
                 <img src={item.preview} alt="PreviewImage" />
             </a>
         </th>
         <td>
-            <a href="#" className='text-primary fw-bold'>
+            <a href="/" className='text-primary fw-bold'>
                 {item.name}
             </a>
         </td>

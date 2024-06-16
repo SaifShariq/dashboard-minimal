@@ -3,7 +3,7 @@ import React from 'react';
 const NavNotice = () => {
   return (
     <li className="nav-item dropdown">
-      <a href="#" className="nav-link nav-icon" data-bs-toggle="dropdown">
+      <a href="/" className="nav-link nav-icon" data-bs-toggle="dropdown">
         <i className="bi bi-bell"></i>
         <span className="badge bg-primary badge-number">4</span>
       </a>
@@ -11,7 +11,7 @@ const NavNotice = () => {
       <ul className="dropdown-menu dropdown-menu-end dropdown-menu-arrow notifications">
         <li className="dropdown-header">
           You have 4 new notifications
-          <a href="#">
+          <a href="/">
             <span className="badge rounded-pill bg-primary p-2 ms-2">
               View All
             </span>
@@ -65,7 +65,7 @@ const NavNotice = () => {
           <hr className="dropdown-divider" />
         </li>
         <li className="dropdown-footer">
-          <a href="#">Show all notifications</a>
+          <a href="/">Show all notifications</a>
         </li>
       </ul>
     </li>

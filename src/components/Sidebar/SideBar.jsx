@@ -18,7 +18,7 @@ function SideBar() {
                     className='nav-link collapsed'
                     data-bs-target='#components-nav'
                     data-bs-toggle='collapse' 
-                    href='#'
+                    href='/'
                 >
                     <i className='bi bi-menu-button-wide'></i>
                     <span>Documents</span>
@@ -30,19 +30,19 @@ function SideBar() {
                     data-bs-parent='#sidebar-nav'
                 >
                     <li>
-                        <a href='#'>
+                        <a href='/'>
                             <i class="bi bi-circle-fill"></i>
                             <span>Customers</span>
                         </a>
                     </li>
                     <li>
-                        <a href='#'>
+                        <a href='/'>
                             <i class="bi bi-circle-fill"></i>
                             <span>Suppliers</span>
                         </a>
                     </li>
                     <li>
-                        <a href='#'>
+                        <a href='/'>
                             <i class="bi bi-circle-fill"></i>
                             <span>Logistics</span>
                         </a>
@@ -54,7 +54,7 @@ function SideBar() {
                     className='nav-link collapsed'
                     data-bs-target='#forms-nav'
                     data-bs-toggle='collapse'
-                    href='#'
+                    href='/'
                 >
                     <i className='bi bi-journal-text'></i>
                     <span>Forms</span>
@@ -66,19 +66,19 @@ function SideBar() {
                     data-bs-parent='#sidebar-nav'
                 >
                     <li>
-                        <a href='#'>
+                        <a href='/'>
                             <i class="bi bi-circle-fill"></i>
                             <span>Application Form</span>
                         </a>
                     </li>
                     <li>
-                        <a href='#'>
+                        <a href='/'>
                             <i class="bi bi-circle-fill"></i>
                             <span>Release Form</span>
                         </a>
                     </li>
                     <li>
-                        <a href='#'>
+                        <a href='/'>
                             <i class="bi bi-circle-fill"></i>
                             <span>Cancellation Form</span>
                         </a>
@@ -90,7 +90,7 @@ function SideBar() {
                     className='nav-link collapsed'
                     data-bs-target='#tables-nav'
                     data-bs-toggle='collapse'
-                    href='#'
+                    href='/'
                 >
                     <i className='bi bi-table'></i>
                     <span>Tables</span>
@@ -102,13 +102,13 @@ function SideBar() {
                     data-bs-parent='#sidebar-nav'
                 >
                     <li>
-                        <a href='#'>
+                        <a href='/'>
                             <i class="bi bi-circle-fill"></i>
                             <span>General Tables</span>
                         </a>
                     </li>
                     <li>
-                        <a href='#'>
+                        <a href='/'>
                             <i class="bi bi-circle-fill"></i>
                             <span>Data Tables</span>
                         </a>
@@ -120,7 +120,7 @@ function SideBar() {
                     className='nav-link collapsed'
                     data-bs-target='#charts-nav'
                     data-bs-toggle='collapse'
-                    href='#'
+                    href='/'
                 >
                     <i class="bi bi-bar-chart-line"></i>
                     <span>Charts</span>
@@ -132,19 +132,19 @@ function SideBar() {
                     data-bs-parent='#sidebar-nav'
                 >
                     <li>
-                        <a href='#'>
+                        <a href='/'>
                             <i class="bi bi-circle-fill"></i>
                             <span>Chart.js</span>
                         </a>
                     </li>
                     <li>
-                        <a href='#'>
+                        <a href='/'>
                             <i class="bi bi-circle-fill"></i>
                             <span>Apex Charts</span>
                         </a>
                     </li>
                     <li>
-                        <a href='#'>
+                        <a href='/'>
                             <i class="bi bi-circle-fill"></i>
                             <span>ECharts</span>
                         </a>
@@ -156,7 +156,7 @@ function SideBar() {
                     className='nav-link collapsed'
                     data-bs-target="#icons-nav"
                     data-bs-toggle="collapse"
-                    href='#'
+                    href='/'
                 >
                     <i className='bi bi-gem'></i>
                     <span>Icons</span>
@@ -168,19 +168,19 @@ function SideBar() {
                     data-bs-parent='#sidebar-nav'
                 >
                     <li>
-                        <a href='#'>
+                        <a href='/'>
                             <i class="bi bi-circle-fill"></i>
                             <span>Bootstrap Icons</span>
                         </a>
                     </li>
                     <li>
-                        <a href='#'>
+                        <a href='/'>
                             <i class="bi bi-circle-fill"></i>
                             <span>Remix Icons</span>
                         </a>
                     </li>
                     <li>
-                        <a href='#'>
+                        <a href='/'>
                             <i class="bi bi-circle-fill"></i>
                             <span>Boxicons</span>
                         </a>

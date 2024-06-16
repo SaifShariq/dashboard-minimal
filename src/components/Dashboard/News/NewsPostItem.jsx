@@ -5,7 +5,7 @@ function NewsPostItem({ item }) {
     <div className="post-item clearfix">
         <img src={item.img} alt="ItemImage" />
         <h4>
-            <a href="#">{item.title}</a>
+            <a href="/">{item.title}</a>
         </h4>
         <p>{item.subtitle}...</p>
     </div>

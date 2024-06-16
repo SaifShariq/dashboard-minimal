@@ -6,7 +6,7 @@ const NavAvatar = () => {
     <li className='nav-item dropdown pe-3'>
       <a
         className='nav-link nav-profile d-flex align-items-center pe-0'
-        href='#'
+        href='/'
         data-bs-toggle='dropdown'
       >
         <img src={profileImg} alt='Profile' className='rounded-circle' />
@@ -61,7 +61,7 @@ const NavAvatar = () => {
         <li>
           <a
             className='dropdown-item d-flex align-items-center'
-            href='#'
+            href='/'
           >
             <i className='bi bi-box-arrow-right'></i>
             <span>Sign Out</span>
