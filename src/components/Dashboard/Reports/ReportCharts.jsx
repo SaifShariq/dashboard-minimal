@@ -1,9 +1,8 @@
-import { auto } from '@popperjs/core';
 import React, {useState} from 'react';
 import Chart from 'react-apexcharts';
 
 function ReportCharts() {
-    const [data, setData] = useState({
+    const [data] = useState({
         series: [
             {
                 name: 'Sales',

@@ -5,10 +5,8 @@ function RecentSalesTable({ items }) {
         switch(status){
             case 'Approved':
                 return 'success';
-                break;
             case 'Pending':
                 return 'warning';
-                break;
             case 'Rejected':
                 return 'danger';
             default:
